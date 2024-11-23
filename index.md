@@ -12,3 +12,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```js
 var myVar = "Hello, world!";
 ```
+
+- [x] Add headers
+- [x] Embed Yaktocat
+- [x] Include some code snippets
+- [ ] Finish the markdown skills tutorial
